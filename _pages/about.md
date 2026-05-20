@@ -19,12 +19,11 @@ redirect_from:
 
 郭子扬，东南大学（SEU）软件工程专业硕士研究生一年级，导师为[金嘉晖](https://jujuhoo.github.io/)。本科毕业于河海大学（2025年），曾于百度担任大模型算法实习生。 
 
-# 🔍Research Topics
-- ** ChatBot ** 
-- ** Agent-Memory **         
-- ** Healthcare Intelligence **
-- ** AI-Assisted Software Engineering ** 
-
+# 🔍Topics
+- ChatBot 
+- Agent-Memory     
+- Healthcare Intelligence
+- AI-Assisted Software Engineering
 
 # 🔥 News
 - 2026/5-[主讲东南大学黑客松workshop2](https://www.xiaohongshu.com/discovery/item/69fd7b3b00000000350335fe?source=webshare&xhsshare=pc_web&xsec_token=AB1lJekvt7r-6ERoXNSriwyhGzwulPVNI-xqenuwiI8ME=&xsec_source=pc_share):为大家讲解如何和ai同频共振，以便更好地AI Coding、AI Working
@@ -35,26 +34,18 @@ redirect_from:
 - 2025/9-[25年大模型应用方向：Text2SQL](https://zhuanlan.zhihu.com/p/1915001536171476928):随着模型底座能力与企业数据治理的持续进化，Text2SQL 不再只是问数据库，而是成为驱动业务流程的核心入口，让用户在一次对话中完成检索、决策与执行的全链路操作。我们有望从移动互联网迈向对话互联网
 
 
-# 📝 Selected Publications 
-
-\* Equal Contribution
+# 🚀 Projects
 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">Arxiv</div>
-<img src='images/statefactory.png' alt="StateFactory" width="100%">
+
+[DeepMemo](https://github.com/YeyezhizzZ/deepmemo)：本地优先的 Markdown 知识库创作与问答工作台，旨在构建可编辑、可检索、可追溯的个人知识系统，适合长期沉淀学习记录、工程经验和科研进度![GitHub stars](https://img.shields.io/github/stars/YeyezhizzZ/deepmemo?style=flat-square)![GitHub forks](https://img.shields.io/github/forks/YeyezhizzZ/deepmemo?style=flat-square)
+
+<img src='../images/deepmemo-editor.png' alt="DeepMemo screenshot" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-
-[Reward Prediction with Factorized World States](https://arxiv.org/abs/2603.09400)
-
-**Yijun Shen**\*, Delong Chen\*, Xianming Hu, Jiaming Mi, Hongbo Zhao, Kai Zhang, Pascale Fung.
-
-[[**Project Page**]](https://statefactory.github.io/) [[**Code**]](https://github.com/yijunshens/StateFactory) [[**X**]](https://x.com/Delong0_0/status/2031669604695576715)
-
-- We introduce StateFactory, a factorized representation method that transforms unstructured observations into a hierarchical object-attribute structure for robust zero-shot reward prediction.
 
 </div>
 </div>
@@ -62,19 +53,16 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">EMNLP 2025</div>
-<img src='images/CoTalk.jpg' alt="CoTalk" width="100%">
+
+[Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)：面向Agent Memory的持续更新知识库，系统整理记忆系统设计、研究论文、开源框架、基准与实践，当前已积累了 400+ 论文和 100+ 开源项目。个人认为memory是agent时代的数字基建，十分欢迎同行交流～![GitHub stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square)
+<img src='../images/awesome-ai-memory.png' alt="Awesome-AI-Memory cover" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/abs/2505.22627)
 
-**Yijun Shen**\*, Delong Chen\*, Fan Liu\*, Xingyu Wang, Chuanyi Zhang, Liang Yao, Yuhui Zheng.
 
-[[**Code**]](https://github.com/YiJunShenS/CoTalk)
-
-- We propose an efficient image caption annotation method, which is a sequential cross modal input-output annotation framework, CoTalk.
 
 </div>
 </div>
