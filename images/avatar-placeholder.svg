@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Avatar placeholder">
-  <rect width="512" height="512" rx="96" fill="#E6EFE9"/>
-  <circle cx="256" cy="206" r="92" fill="#1D6F5A" fill-opacity="0.16"/>
-  <path d="M116 404c22-68 85-108 140-108s118 40 140 108" fill="#1D6F5A" fill-opacity="0.16"/>
-  <text x="256" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="112" font-weight="700" fill="#10223E">R</text>
-</svg>

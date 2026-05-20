@@ -1,11 +1,4 @@
-<script>
-  (function () {
-    var toggle = document.querySelector('.nav-toggle');
-    var nav = document.querySelector('.greedy-nav');
-    if (toggle && nav) {
-      toggle.addEventListener('click', function () {
-        nav.classList.toggle('is-open');
-      });
-    }
-  }());
-</script>
+<script src="assets/js/main.min.js"></script>
+
+{% include analytics.html %}
+{% include fetch_google_scholar_stats.html %}
