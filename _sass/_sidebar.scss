@@ -108,6 +108,7 @@
   vertical-align: top;
   padding-left: 10px;
   min-width: 120px;
+  min-width: 0;
   // padding-right: 25px;
   line-height: 1;
 
@@ -121,6 +122,7 @@
 
 .author__name {
   margin: 0;
+  white-space: nowrap;
 
   @include breakpoint($large) {
     margin-top: 10px;
