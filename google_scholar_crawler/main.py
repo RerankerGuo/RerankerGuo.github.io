@@ -3,8 +3,16 @@ import jsonpickle
 import json
 from datetime import datetime
 import os
+import sys
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+# If the GOOGLE_SCHOLAR_ID secret isn't configured, skip cleanly instead of
+# crashing the workflow with a parse error from Google Scholar's response.
+gs_id = os.environ.get('GOOGLE_SCHOLAR_ID', '').strip()
+if not gs_id:
+    print('GOOGLE_SCHOLAR_ID secret is missing; skipping citation refresh.', file=sys.stderr)
+    sys.exit(0)
+
+author: dict = scholarly.search_author_id(gs_id)
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())
