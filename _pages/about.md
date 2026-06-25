@@ -40,17 +40,17 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
-<img src='../images/deepmemo-editor.png' alt="DeepMemo screenshot" width="100%">
+<img src='../images/tencentdb-agent-memory.png' alt="TencentDB Agent Memory logo" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[DeepMemo](https://github.com/YeyezhizzZ/deepmemo)
+[TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
-![GitHub stars](https://img.shields.io/github/stars/YeyezhizzZ/deepmemo?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/YeyezhizzZ/deepmemo?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/TencentCloud/TencentDB-Agent-Memory?style=flat-square)
 
-- 本地优先的 Markdown 知识库创作与问答工作台，旨在构建可编辑、可检索、可追溯的个人知识系统，适合长期沉淀学习记录、工程经验和科研进度。 **Owner**
+- 腾讯云开源的 Agent 记忆引擎，主打"符号化短期记忆 + 分层长期记忆"：将冗长的工具日志压缩为 Mermaid 符号图腾，长期记忆按 L0 Conversation → L1 Atom → L2 Scenario → L3 Persona 分层沉淀。集成 OpenClaw / Hermes 后，token 用量最多下降 61.38%，SWE-bench pass rate 相对提升 9.93%。 **Contributor** — 参与了核心代码贡献。
 
 </div>
 </div>
@@ -78,17 +78,17 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
-<img src='../images/tencentdb-agent-memory.png' alt="TencentDB Agent Memory logo" width="100%">
+<img src='../images/deepmemo-editor.png' alt="DeepMemo screenshot" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+[DeepMemo](https://github.com/YeyezhizzZ/deepmemo)
 
-![GitHub stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/TencentCloud/TencentDB-Agent-Memory?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/YeyezhizzZ/deepmemo?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/YeyezhizzZ/deepmemo?style=flat-square)
 
-- 腾讯云开源的 Agent 记忆引擎，主打"符号化短期记忆 + 分层长期记忆"：将冗长的工具日志压缩为 Mermaid 符号图腾，长期记忆按 L0 Conversation → L1 Atom → L2 Scenario → L3 Persona 分层沉淀。集成 OpenClaw / Hermes 后，token 用量最多下降 61.38%，SWE-bench pass rate 相对提升 9.93%。 **Contributor** — 参与了核心代码贡献。
+- 本地优先的 Markdown 知识库创作与问答工作台，旨在构建可编辑、可检索、可追溯的个人知识系统，适合长期沉淀学习记录、工程经验和科研进度。 **Owner**
 
 </div>
 </div>
