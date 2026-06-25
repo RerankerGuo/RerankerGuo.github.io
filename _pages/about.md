@@ -26,7 +26,7 @@ redirect_from:
 - AI-Assisted Software Engineering
 
 # 🔥 News
-- 2026/6-[把AI真正用进真实项目](https://mp.weixin.qq.com/s/X-34ggGNzJsBaT3-e-9y3Q):Coding Agent可以降低每一行代码生成的成本，却不能稳定降低每一行代码上线并长期运行的成本。我们已经进入了一个代码极度廉价甚至过剩的时代，如何定义规范的ai工作范式是核心问题，阅读2万转发2千
+- 2026/6-[把AI真正用进真实项目](https://mp.weixin.qq.com/s/X-34ggGNzJsBaT3-e-9y3Q):Coding Agent可以降低每一行代码生成的成本，却不能稳定降低每一行代码上线并长期运行的成本。我们已经进入了一个代码极度廉价甚至过剩的时代，分享规范使用ai进行工作的经验，阅读2万转发2千
 - 2026/5-[主讲东南大学黑客松workshop2](https://www.xiaohongshu.com/discovery/item/69fd7b3b00000000350335fe?source=webshare&xhsshare=pc_web&xsec_token=AB1lJekvt7r-6ERoXNSriwyhGzwulPVNI-xqenuwiI8ME=&xsec_source=pc_share):为大家讲解如何和ai同频共振，以便更好地AI Coding、AI Working
 - 2026/4-[东南大学校花校草](https://mp.weixin.qq.com/s/VC-TzLqVNIvsVyMB-r2biw):愚人节看个开心～
 - 2026/3-[成为真正的AI Native Coder](https://mp.weixin.qq.com/s/xLgonEJ9cCH0LaLpw76_3g):基于个人开发经历，沉淀AI Codind方法论，阅读2万转发3千
@@ -88,7 +88,7 @@ redirect_from:
 ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/TencentCloud/TencentDB-Agent-Memory?style=flat-square)
 
-- 腾讯云开源的 Agent 记忆引擎，主打"符号化短期记忆 + 分层长期记忆"：将冗长的工具日志压缩为 Mermaid 符号图腾，长期记忆按 L0 Conversation → L1 Atom → L2 Scenario → L3 Persona 分层沉淀。集成 OpenClaw / Hermes 后，token 用量最多下降 61.38%，SWE-bench pass rate 相对提升 9.93%。 **Contributor (PR merged)** — 参与了核心代码贡献。
+- 腾讯云开源的 Agent 记忆引擎，主打"符号化短期记忆 + 分层长期记忆"：将冗长的工具日志压缩为 Mermaid 符号图腾，长期记忆按 L0 Conversation → L1 Atom → L2 Scenario → L3 Persona 分层沉淀。集成 OpenClaw / Hermes 后，token 用量最多下降 61.38%，SWE-bench pass rate 相对提升 9.93%。 **Contributor** — 参与了核心代码贡献。
 
 </div>
 </div>
