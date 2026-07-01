@@ -107,7 +107,7 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/YeyezhizzZ/deepmemo?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/YeyezhizzZ/deepmemo?style=flat-square)
-- **Owner**
+- **Core Maintainer**
 - 本地优先的 Markdown 知识库创作与问答工作台，旨在构建可编辑、可检索、可追溯的个人知识系统，适合长期沉淀学习记录、工程经验和科研进度。
 
 
