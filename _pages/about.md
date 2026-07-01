@@ -59,6 +59,25 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
+<img src='../images/reme.png' alt="ReMe logo" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[ReMe](https://github.com/agentscope-ai/ReMe)
+
+![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/agentscope-ai/ReMe?style=flat-square)
+- **Contributor**
+- AgentScope 团队开源的 Agent 记忆管理工具包，主打 **Memory as File**：用 Markdown + frontmatter + wikilink 同时被人与 agent 直接读写。Auto Memory / Auto Resource / Auto Dream 三个动作把对话与外部资料渐进沉淀为可检索、可追溯、可链接的文件型长期记忆，再叠加 wikilink + BM25 + embedding 的混合检索，以及 `reme` CLI + `SKILL.md` 让任意 agent 都能即插即用。论文已被 ACL 2026 Findings 接收。
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">GitHub</div>
 <img src='../images/awesome-ai-memory.png' alt="Awesome-AI-Memory cover" width="100%">
 </div>
 </div>
@@ -106,5 +125,5 @@ redirect_from:
 - 2025.6，百度上研大厦跳绳亚军（从现在开始文化生转体育生）
 - 2024.11, 河海大学十佳班长（24年全校唯十），所在班集体获评江苏省先进班集体
 - 2024.10, 河海大学严恺奖学金（24年全学院唯一，感谢硕士博士前辈谦让了）
-- 2023.10, 本科生国家奖学金 
-- 2021-2025, 河海大学优秀学生奖学金
+- 2023.10, 本科生国家奖学金（梦开始的里程碑） 
+- 2021-2025, 河海大学优秀学生奖学金（满勤打卡）
