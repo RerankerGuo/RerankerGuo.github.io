@@ -68,8 +68,8 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/agentscope-ai/ReMe?style=flat-square)
-- **Contributor**
-- AgentScope 团队开源的 Agent 记忆管理工具包，主打 **Memory as File**：用 Markdown + frontmatter + wikilink 同时被人与 agent 直接读写。Auto Memory / Auto Resource / Auto Dream 三个动作把对话与外部资料渐进沉淀为可检索、可追溯、可链接的文件型长期记忆，再叠加 wikilink + BM25 + embedding 的混合检索，以及 `reme` CLI + `SKILL.md` 让任意 agent 都能即插即用。论文已被 ACL 2026 Findings 接收。
+- ACL 2026 Findings-**Contributor**
+- Agent 记忆管理工具包，理念是 **Memory as File**：基于 Markdown + frontmatter + wikilink 设计人、 agent 皆可读可用的记忆系统，把对话与外部资料渐进沉淀为可检索、可追溯、可链接的文件型长期记忆。通过 reme CLI + SKILL.md 让任意 agent 都能即插即用。
 
 </div>
 </div>
