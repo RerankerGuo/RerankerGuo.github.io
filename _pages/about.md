@@ -40,6 +40,25 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
+<img src='../images/memos.png' alt="MemOS logo" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[MemOS](https://github.com/MemTensor/MemOS)
+
+![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/MemTensor/MemOS?style=flat-square)
+- **Contributor**
+- MemTensor 开源的面向 LLM 与 AI Agent 的 **Memory Operating System**：用统一的 API 完成记忆的 add / retrieve / edit / delete，结构以**有向图**承载、可视化可编辑（不是黑盒向量库）。原生支持文本、图像、工具轨迹与 Persona 的多模态记忆，通过可组合的 **MemCube** 实现跨用户/项目/Agent 的隔离与编排；MemScheduler 提供毫秒级异步调度；支持自然语言反馈与纠错。配合 OpenClaw 平均任务完成率由 36.63% → 50.87%，LoCoMo 92.34、LongMemEval 93.40，OmniMemEval 14 个商业记忆产品评测第一。
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">GitHub</div>
 <img src='../images/tencentdb-agent-memory.png' alt="TencentDB Agent Memory logo" width="100%">
 </div>
 </div>
