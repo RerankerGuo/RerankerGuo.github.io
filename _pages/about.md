@@ -87,7 +87,7 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/agentscope-ai/ReMe?style=flat-square)
-- ACL 2026 Findings-**Contributor**
+- 阿里巴巴AgentScope-**Contributor**
 - Agent 记忆管理工具包，理念是 **Memory as File**：基于 Markdown + frontmatter + wikilink 设计人、 agent 皆可读可用的记忆系统，把对话与外部资料渐进沉淀为可检索、可追溯、可链接的文件型长期记忆。通过 reme CLI + SKILL.md 让任意 agent 都能即插即用。
 
 </div>
