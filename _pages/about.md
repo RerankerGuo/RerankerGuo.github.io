@@ -40,6 +40,25 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
+<img src='../images/gbrain.png' alt="gbrain logo" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[gbrain](https://github.com/garrytan/gbrain)
+
+![GitHub stars](https://img.shields.io/github/stars/garrytan/gbrain?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/garrytan/gbrain?style=flat-square)
+- **Contributor**
+- YC 总裁 Garry Tan 个人开源的 Agent 大脑层：把检索从"返回 10 个相关页面"升级为"综合引用 + 自走知识图谱 + 缺口分析"三合一，在 240 页 Opus 长文评测上 **P@5 49.1% / R@5 97.9%**，比纯向量 RAG / ripgrep-BM25 高 **+31.4 个百分点**。既是 24/7 个人脑（已跑通 14.6 万页面 / 2.4 万人 / 5300 家公司、66 个 cron job），也能作公司脑按 login 分片隔离、零泄露。
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">GitHub</div>
 <img src='../images/memos.png' alt="MemOS logo" width="100%">
 </div>
 </div>
