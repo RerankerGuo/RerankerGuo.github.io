@@ -59,6 +59,25 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
+<img src='../images/qwenpaw.png' alt="QwenPaw logo" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[QwenPaw](https://github.com/agentscope-ai/QwenPaw)
+
+![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/agentscope-ai/QwenPaw?style=flat-square)
+- 阿里巴巴AgentScope-**Contributor**
+- 阿里开源的个人 AI 助手，本地/云端一键部署：内置 **QwenPaw-Flash（2B/4B/9B）** 本地推理模型，无需 API key 也可跑通；同时兼容 Ollama / LM Studio / 14+ 云端 provider。**三层记忆**：实时工作上下文 + 全量逐字历史 + 蒸馏知识，老对话被淘汰但仍可按需召回。v2.0 重写为 Agent OS 架构（Workspace + Drivers + Sandbox），支持多 agent 并行（ACP）、三栏 Web IDE 的 Coding Mode、Skills/Plugins 市场 + MCP，Channel 覆盖钉钉/飞书/微信/Discord/Telegram/iMessage/QQ。
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">GitHub</div>
 <img src='../images/memos.png' alt="MemOS logo" width="100%">
 </div>
 </div>
