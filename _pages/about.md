@@ -78,6 +78,25 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
+<img src='../images/agentteams.png' alt="AgentTeams logo" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[AgentTeams](https://github.com/agentscope-ai/AgentTeams)
+
+![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/AgentTeams?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/agentscope-ai/AgentTeams?style=flat-square)
+- 阿里巴巴AgentScope-**Contributor**
+- 开源的多 Agent 协作运行平台（前身 HiClaw），采用 **Manager-Workers 架构**：Manager 居中调度多个 Worker，OpenClaw / QwenPaw / Hermes 等不同 runtime 可以在同一 Matrix 房间内共存并协同，内置 MinIO 共享文件系统降低 token 消耗、Higress AI Gateway 收敛凭证风险，原生支持人在环上（Human-in-the-Loop）。
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">GitHub</div>
 <img src='../images/reme.png' alt="ReMe logo" width="100%">
 </div>
 </div>
