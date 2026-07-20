@@ -40,6 +40,25 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
+<img src='../images/agentscope.png' alt="AgentScope logo" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[AgentScope](https://github.com/agentscope-ai/agentscope)
+
+![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/agentscope-ai/agentscope?style=flat-square)
+- 阿里巴巴AgentScope-**Contributor**
+- 阿里开源的面向生产环境的 Agent 框架，主张"释放模型推理与工具能力，不靠死板 prompt 与编排"。核心抽象：**Event System**（统一事件总线 + 人在环上）、**Permission System**（工具与资源的细粒度管控）、**Multi-tenancy & Multi-session**（租户/会话隔离的服务化）、**Workspace / Sandbox**（内置 Local/Docker/E2B/OpenSandbox/Daytona 后端）、**Extensible Middleware**（可组合 hook 自定义推理-行动循环）。已原生接入 ReMe 长记忆、Agentic Memory、分布式 RAG 服务。
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">GitHub</div>
 <img src='../images/gbrain.png' alt="gbrain logo" width="100%">
 </div>
 </div>
