@@ -36,7 +36,7 @@ redirect_from:
 
 # 🚀 Projects
 
-## 🤖 Alibaba AgentScope 生态
+## <img src='../images/alibaba.svg' alt="Alibaba" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> Alibaba AgentScope 生态
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -47,7 +47,7 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-阿里 Agent 全家桶 Contributor，across the family (20+ merged PR)。
+阿里 Agent 全家桶 Contributor (20+ merged PR)。
 
 - **[AgentScope](https://github.com/agentscope-ai/agentscope)** ![stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square) — 生产级 Agent 框架：Event System / Permission / Workspace / Sandbox / Middleware 等核心抽象，已原生接入 ReMe 长记忆、Agentic Memory、分布式 RAG。
 - **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** ![stars](https://img.shields.io/github/stars/agentscope-ai/AgentTeams?style=flat-square) — 多 Agent 协作平台（前身 HiClaw），Manager-Workers 架构，OpenClaw / QwenPaw / Hermes 多 runtime 共存。
