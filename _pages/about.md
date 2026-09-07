@@ -63,7 +63,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
-<img src='../images/memos.png' alt="MemOS logo" width="100%">
+<img src='../images/tencentdb-flowchart.png' alt="TencentDB Agent Memory Flowchart" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -72,26 +72,26 @@ redirect_from:
 
 - **[MemOS](https://github.com/MemTensor/MemOS)** ![stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square) — Memory Operating System：统一 add / retrieve / edit / delete API；LoCoMo 92.34、LongMemEval 93.40 等 14 个商业记忆产品评测第一。
 - **[TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** ![stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=flat-square) — 腾讯云开源：分层 L0→L3 长期记忆 + 符号化短期记忆，集成后 token 用量最多下降 61.38%。
+- **[gbrain](https://github.com/garrytan/gbrain)** ![stars](https://img.shields.io/github/stars/garrytan/gbrain?style=flat-square) — YC 总裁 Garry Tan 开源的 Agent 大脑层：综合引用 + 自走知识图谱 + 缺口分析，240 页 Opus 长文评测 **P@5 49.1% / R@5 97.9%**。
 - **[OpenViking](https://github.com/volcengine/OpenViking)** ![stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square) — 字节火山引擎 Self-evolving Context Database，统一 Agent Memory / Knowledge RAG / Skills 三层抽象。
 - **[Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)** ![stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square) — 面向 Agent Memory 的持续更新知识库（400+ 论文 / 100+ 开源项目）。
 
 </div>
 </div>
 
-## 🔍 Agent Brain & RAG
+## 🔍 Open-Source RAG
 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
-<img src='../images/gbrain.png' alt="gbrain logo" width="100%">
+<img src='../images/ragflow.svg' alt="RAGFlow logo" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-检索 / 增强 / 大脑层 Contributor (10+ merged PR)。
+开源 RAG 引擎 Contributor。
 
-- **[gbrain](https://github.com/garrytan/gbrain)** ![stars](https://img.shields.io/github/stars/garrytan/gbrain?style=flat-square) — YC 总裁 Garry Tan 开源的 Agent 大脑层：综合引用 + 自走知识图谱 + 缺口分析，240 页 Opus 长文评测 **P@5 49.1% / R@5 97.9%**。
 - **[ragflow](https://github.com/infiniflow/ragflow)** ![stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square) — infiniflow 出品的开源 RAG 引擎（90k+ stars），文档解析 / retrieval / agent orchestration 一条龙。
 
 </div>
