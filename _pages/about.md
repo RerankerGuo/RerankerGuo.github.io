@@ -42,7 +42,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
-<img src='../images/agentscope.png' alt="AgentScope logo" width="100%">
+<img src='../images/agentscope-ecosystem.svg' alt="AgentScope ecosystem" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
