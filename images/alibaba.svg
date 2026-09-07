@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Alibaba">
   <rect width="64" height="64" rx="12" fill="#FF6A00"/>
-  <path d="M32 11 L13 53 L22 53 L26.2 43.5 L37.8 43.5 L42 53 L51 53 Z M28.2 36.5 L35.8 36.5 L32 28 Z" fill="#FFFFFF"/>
+  <circle cx="23" cy="26" r="4.5" fill="#FFFFFF"/>
+  <circle cx="41" cy="26" r="4.5" fill="#FFFFFF"/>
+  <path d="M18 38 Q32 52 46 38" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
 </svg>
