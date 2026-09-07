@@ -57,7 +57,7 @@ redirect_from:
 </div>
 </div>
 
-## 🧠 Agent Memory
+## <img src='../images/tencent-cloud.svg' alt="Tencent Cloud" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> Agent Memory
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -79,7 +79,7 @@ redirect_from:
 </div>
 </div>
 
-## 🔍 Open-Source RAG
+## <img src='../images/infiniflow.svg' alt="infiniflow" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> Open-Source RAG
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -97,7 +97,7 @@ redirect_from:
 </div>
 </div>
 
-## 🏋️ LLM Post-Training
+## <img src='../images/modelscope.svg' alt="ModelScope" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> LLM Post-Training
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -116,7 +116,7 @@ redirect_from:
 </div>
 </div>
 
-## 📝 Personal Project
+## <img src='../images/memo.svg' alt="memo" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> Personal Project
 
 <div class='paper-box'>
 <div class='paper-box-image'>
