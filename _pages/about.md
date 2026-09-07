@@ -49,7 +49,7 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/agentscope-ai/agentscope?style=flat-square)
-- 阿里巴巴AgentScope-**Contributor**
+- 阿里巴巴AgentScope-**Contributor** · across the AgentScope ecosystem (20+ merged PR)
 - 阿里开源的面向生产环境的 Agent 框架，主张"释放模型推理与工具能力，不靠死板 prompt 与编排"。核心抽象：**Event System**（统一事件总线 + 人在环上）、**Permission System**（工具与资源的细粒度管控）、**Multi-tenancy & Multi-session**（租户/会话隔离的服务化）、**Workspace / Sandbox**（内置 Local/Docker/E2B/OpenSandbox/Daytona 后端）、**Extensible Middleware**（可组合 hook 自定义推理-行动循环）。已原生接入 ReMe 长记忆、Agentic Memory、分布式 RAG 服务。
 
 </div>
@@ -68,7 +68,7 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/garrytan/gbrain?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/garrytan/gbrain?style=flat-square)
-- **Contributor**
+- **Contributor** · 10+ merged PR
 - YC 总裁 Garry Tan 个人开源的 Agent 大脑层：把检索从"返回 10 个相关页面"升级为"综合引用 + 自走知识图谱 + 缺口分析"三合一，在 240 页 Opus 长文评测上 **P@5 49.1% / R@5 97.9%**，比纯向量 RAG / ripgrep-BM25 高 **+31.4 个百分点**。既是 24/7 个人脑（已跑通 14.6 万页面 / 2.4 万人 / 5300 家公司、66 个 cron job），也能作公司脑按 login 分片隔离、零泄露。
 
 </div>
@@ -87,7 +87,7 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/agentscope-ai/QwenPaw?style=flat-square)
-- 阿里巴巴AgentScope-**Contributor**
+- 阿里巴巴AgentScope-**Contributor** · 5+ merged PR
 - 阿里开源的个人 AI 助手，本地/云端一键部署：内置 **QwenPaw-Flash（2B/4B/9B）** 本地推理模型，无需 API key 也可跑通；同时兼容 Ollama / LM Studio / 14+ 云端 provider。**三层记忆**：实时工作上下文 + 全量逐字历史 + 蒸馏知识，老对话被淘汰但仍可按需召回。v2.0 重写为 Agent OS 架构（Workspace + Drivers + Sandbox），支持多 agent 并行（ACP）、三栏 Web IDE 的 Coding Mode、Skills/Plugins 市场 + MCP，Channel 覆盖钉钉/飞书/微信/Discord/Telegram/iMessage/QQ。
 
 </div>
@@ -106,7 +106,7 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/MemTensor/MemOS?style=flat-square)
-- **Contributor**
+- **Contributor** · 10+ merged PR
 - 面向 Agent 的 Memory Operating System：用统一的 API 完成记忆的 add / retrieve / edit / delete。原生支持文本、图像、工具轨迹与 Persona 的多模态记忆；实现跨用户/项目/Agent 的隔离与编排；提供毫秒级异步调度。在LoCoMo 92.34、LongMemEval 93.40，OmniMemEval 等14 个商业记忆产品评测第一。
 
 </div>
@@ -125,7 +125,7 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/TencentCloud/TencentDB-Agent-Memory?style=flat-square)
-- 腾讯犀牛鸟计划-**Contributor**
+- 腾讯犀牛鸟计划-**Contributor** · 5+ merged PR
 - 腾讯云开源的 Agent 记忆引擎，主打"符号化短期记忆 + 分层长期记忆"：将冗长的工具日志压缩为 Mermaid 符号图腾，长期记忆按 L0 Conversation → L1 Atom → L2 Scenario → L3 Persona 分层沉淀。集成 OpenClaw / Hermes 后，token 用量最多下降 61.38%，SWE-bench pass rate 相对提升 9.93%。
 
 </div>
@@ -144,7 +144,7 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/AgentTeams?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/agentscope-ai/AgentTeams?style=flat-square)
-- 阿里巴巴AgentScope-**Contributor**
+- 阿里巴巴AgentScope-**Contributor** · 10+ merged PR
 - 开源的多 Agent 协作运行平台（前身 HiClaw），采用 **Manager-Workers 架构**：Manager 居中调度多个 Worker，OpenClaw / QwenPaw / Hermes 等不同 runtime 可以在同一 Matrix 房间内共存并协同，内置 MinIO 共享文件系统降低 token 消耗、Higress AI Gateway 收敛凭证风险，原生支持人在环上（Human-in-the-Loop）。
 
 </div>
@@ -163,7 +163,7 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/agentscope-ai/ReMe?style=flat-square)
-- 阿里巴巴AgentScope-**Contributor**
+- 阿里巴巴AgentScope-**Contributor** · 5+ merged PR
 - Agent 记忆管理工具包，理念是 **Memory as File**：基于 Markdown + frontmatter + wikilink 设计人、 agent 皆可读可用的记忆系统，把对话与外部资料渐进沉淀为可检索、可追溯、可链接的文件型长期记忆。通过 reme CLI + SKILL.md 让任意 agent 都能即插即用。
 
 </div>
@@ -182,9 +182,85 @@ redirect_from:
 
 ![GitHub stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square)
-- **Contributor**
+- **Contributor** · 30+ merged PR
 - 面向Agent Memory的持续更新知识库，系统整理记忆系统设计、研究论文、开源框架、基准与实践，当前已积累了 400+ 论文和 100+ 开源项目。个人认为memory是agent时代的数字基建，十分欢迎同行交流～
 
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">GitHub</div>
+<img src='../images/ms-swift.jpg' alt="ms-swift logo" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[ms-swift](https://github.com/modelscope/ms-swift)
+
+![GitHub stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/modelscope/ms-swift?style=flat-square)
+- **Contributor** · 5+ merged PR
+- 阿里达摩院 ModelScope 出品的全流程训练框架（AAAI 2025），用 PEFT 或全参数支持 600+ LLM（Qwen3.6、DeepSeek-V4、GLM-5.1、InternLM3、Llama4…）和 300+ MLLM 的 CPT / SFT / DPO / GRPO，覆盖 WebUI、命令行、分布式训练链路。
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">GitHub</div>
+<img src='../images/ragflow.svg' alt="RAGFlow logo" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[ragflow](https://github.com/infiniflow/ragflow)
+
+![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/infiniflow/ragflow?style=flat-square)
+- **Contributor** · 5+ merged PR
+- infiniflow 出品的开源 RAG 引擎（90k+ stars），把 RAG 与 Agent 能力融合，给 LLM 提供更厚的 context layer：文档解析 / chunking / retrieval / agent orchestration 一条龙。
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">GitHub</div>
+<img src='../images/openviking.png' alt="OpenViking logo" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[OpenViking](https://github.com/volcengine/OpenViking)
+
+![GitHub stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/volcengine/OpenViking?style=flat-square)
+- **Contributor** · 5+ merged PR
+- 字节火山引擎开源的 Self-evolving Context Database：把 Agent Memory / Knowledge RAG / Skills 三层抽象统一在一个文件系统式的接口下，让 agent 跨 session 持续沉淀上下文。
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">GitHub</div>
+<img src='../images/hf-trl.png' alt="Hugging Face logo" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[trl](https://github.com/huggingface/trl)
+
+![GitHub stars](https://img.shields.io/github/stars/huggingface/trl?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/huggingface/trl?style=flat-square)
+- **Contributor** · 1 merged PR
+- HuggingFace 官方维护的 Transformer 强化学习库（19k+ stars），内置 SFT / DPO / GRPO / PPO 等主流 post-training 范式，是 🤗 Transformers 生态里 RLHF 的事实标准。
 
 </div>
 </div>
