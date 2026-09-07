@@ -90,7 +90,7 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-开源 RAG 引擎 Contributor。
+开源 RAG 引擎 Contributor (4 merged PR)。
 
 - **[ragflow](https://github.com/infiniflow/ragflow)** ![stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square) — infiniflow 出品的开源 RAG 引擎（90k+ stars），文档解析 / retrieval / agent orchestration 一条龙。
 
