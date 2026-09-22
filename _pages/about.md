@@ -26,6 +26,7 @@ redirect_from:
 - AI-Assisted Software Engineering
 
 # 🔥 News
+- 2026/9-[从 Agent 开发到 Agent 算法，进阶指南来了](https://mp.weixin.qq.com/s/0YFG-J2ZWwRO4lTP7f1JDA):Datawhale 干货，沉淀 Agent 业务迭代方法论 Benchmark→策略→上线，从 Rubric、LLM-as-Judge/Reward Model 到 Prompt、SFT、RL 全链路拆解
 - 2026/6-[把AI真正用进真实项目](https://mp.weixin.qq.com/s/X-34ggGNzJsBaT3-e-9y3Q):Coding Agent可以降低每一行代码生成的成本，却不能稳定降低每一行代码上线并长期运行的成本。我们已经进入了一个代码极度廉价甚至过剩的时代，分享规范使用ai进行工作的经验，阅读2万转发2千
 - 2026/5-[主讲东南大学黑客松workshop2](https://www.xiaohongshu.com/discovery/item/69fd7b3b00000000350335fe?source=webshare&xhsshare=pc_web&xsec_token=AB1lJekvt7r-6ERoXNSriwyhGzwulPVNI-xqenuwiI8ME=&xsec_source=pc_share):为大家讲解如何和ai同频共振，以便更好地AI Coding、AI Working
 - 2026/4-[东南大学校花校草](https://mp.weixin.qq.com/s/VC-TzLqVNIvsVyMB-r2biw):愚人节看个开心～
