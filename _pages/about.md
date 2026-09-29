@@ -48,13 +48,14 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-阿里 Agent 全家桶 Contributor (29 merged PR)。
+阿里 Agent 全家桶 Contributor (30 merged PR)。
 
 - **[AgentScope](https://github.com/agentscope-ai/agentscope)** ![stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-4-8957e5?style=flat-square)](https://github.com/agentscope-ai/agentscope/pulls?q=is:pr+author:RerankerGuo+is:merged) — 生产级 Agent 框架：Event System / Permission / Workspace / Sandbox / Middleware 等核心抽象，已原生接入 ReMe 长记忆、Agentic Memory、分布式 RAG。
 - **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** ![stars](https://img.shields.io/github/stars/agentscope-ai/AgentTeams?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-12-8957e5?style=flat-square)](https://github.com/agentscope-ai/AgentTeams/pulls?q=is:pr+author:RerankerGuo+is:merged) — 多 Agent 协作平台（前身 HiClaw），Manager-Workers 架构，OpenClaw / QwenPaw / Hermes 多 runtime 共存。
 - **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** ![stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-8-8957e5?style=flat-square)](https://github.com/agentscope-ai/QwenPaw/pulls?q=is:pr+author:RerankerGuo+is:merged) — 个人 AI 助手 + Agent OS 架构（Workspace + Drivers + Sandbox），三层记忆 + Coding Mode。
   - *Co-authored*: [#6688](https://github.com/agentscope-ai/QwenPaw/pull/6688) · [#6398](https://github.com/agentscope-ai/QwenPaw/pull/6398)
 - **[ReMe](https://github.com/agentscope-ai/ReMe)** ![stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-5-8957e5?style=flat-square)](https://github.com/agentscope-ai/ReMe/pulls?q=is:pr+author:RerankerGuo+is:merged) — Memory as File 记忆工具包：Markdown + frontmatter + wikilink，人 / agent 皆可读可用。
+- **[open-code-review](https://github.com/alibaba/open-code-review)** ![stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-1-8957e5?style=flat-square)](https://github.com/alibaba/open-code-review/pulls?q=is:pr+author:RerankerGuo+is:merged) — 阿里出品的混合架构代码审查工具：确定性流水线 + LLM Agent 行级精准评论，内置多语言规则集（NPE / 线程安全 / XSS / SQL 注入），兼容 OpenAI & Anthropic（42k+ stars）。
 
 </div>
 </div>
@@ -133,10 +134,9 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-AI 编程 / 代码审查工具生态 Contributor (2 merged PR)。
+本地优先的开源 AI 助手 Contributor (1 merged PR)。
 
 - **[openclaw](https://github.com/openclaw/openclaw)** ![stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-1-8957e5?style=flat-square)](https://github.com/openclaw/openclaw/pulls?q=is:pr+author:RerankerGuo+is:merged) — 跑在自己设备上的开源 AI 助手：Discord / Slack / Telegram 等 20+ 聊天渠道即入口，模型与 agent harness 可插拔，状态 / 记忆 / 凭证全部留在本地（390k+ stars）。
-- **[open-code-review](https://github.com/alibaba/open-code-review)** ![stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-1-8957e5?style=flat-square)](https://github.com/alibaba/open-code-review/pulls?q=is:pr+author:RerankerGuo+is:merged) — 阿里出品的混合架构代码审查工具：确定性流水线 + LLM Agent 行级精准评论，内置多语言规则集（NPE / 线程安全 / XSS / SQL 注入），兼容 OpenAI & Anthropic（42k+ stars）。
 
 </div>
 </div>
