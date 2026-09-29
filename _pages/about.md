@@ -123,7 +123,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
-<img src='../images/ai-dev-banner.svg' alt="AI dev tools banner" width="100%">
+<img src='../images/openclaw-banner.png' alt="OpenClaw banner" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
