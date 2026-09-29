@@ -20,10 +20,8 @@ redirect_from:
 郭子扬，东南大学（SEU）软件工程专业硕士研究生一年级。本科在河海大学读计算机专业（2021-2025年），曾于百度健康担任大模型算法实习生(2025.2-2025.9),主要负责智能客服业务。
  
 # 🔍Topics
-- ChatBot 
-- Agent-Memory     
-- Healthcare Intelligence
-- AI-Assisted Software Engineering
+- AIGC
+- 智能客服
 
 # 🔥 News
 - 2026/9-[从 Agent 开发到 Agent 算法的业务迭代方法论](https://mp.weixin.qq.com/s/0YFG-J2ZWwRO4lTP7f1JDA):基于个人实践交流经验，沉淀Agent 业务迭代方案：Benchmark→策略→上线，分享agent迭代方案从make sense到work再到solid的实践指南
