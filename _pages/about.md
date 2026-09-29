@@ -117,7 +117,7 @@ redirect_from:
 </div>
 </div>
 
-## <img src='../images/ai-dev.svg' alt="AI Dev Tools" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> AI-Assisted Software Engineering
+## <img src='../images/ai-dev.svg' alt="AI Dev Tools" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> Personal Agent
 
 <div class='paper-box'>
 <div class='paper-box-image'>
