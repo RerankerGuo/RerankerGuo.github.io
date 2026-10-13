@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-郭子扬，东南大学（SEU）软件工程专业硕士研究生一年级。本科在河海大学读计算机专业（2021-2025年），曾于百度健康担任大模型算法实习生(2025.2-2025.9),主要负责智能客服业务。
+# 🎓 Education
+
+- 2025-至今，东南大学-软件工程专业，硕士研究生
+- 2021-2025，河海大学-计算机科学与技术专业，本科
  
 # 🔍Topics
 - AIGC
@@ -79,7 +82,7 @@ redirect_from:
 </div>
 </div>
 
-## <img src='../images/infiniflow.svg' alt="infiniflow" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> Open-Source RAG & Deep Research
+## <img src='../images/infiniflow.svg' alt="infiniflow" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> Deep Research
 
 <div class='paper-box'>
 <div class='paper-box-image'>
