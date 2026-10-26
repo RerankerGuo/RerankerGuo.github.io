@@ -42,13 +42,13 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-阿里 Agent 全家桶 Contributor (36 merged PR)。
+阿里 Agent 全家桶 Contributor (46 merged PR)。
 
-- **[AgentScope](https://github.com/agentscope-ai/agentscope)** ![stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-8-8957e5?style=flat-square)](https://github.com/agentscope-ai/agentscope/pulls?q=is:pr+author:RerankerGuo+is:merged) — 生产级 Agent 框架：Event System / Permission / Workspace / Sandbox / Middleware 等核心抽象，已原生接入 ReMe 长记忆、Agentic Memory、分布式 RAG。
-- **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** ![stars](https://img.shields.io/github/stars/agentscope-ai/AgentTeams?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-12-8957e5?style=flat-square)](https://github.com/agentscope-ai/AgentTeams/pulls?q=is:pr+author:RerankerGuo+is:merged) — 多 Agent 协作平台（前身 HiClaw），Manager-Workers 架构，OpenClaw / QwenPaw / Hermes 多 runtime 共存。
+- **[AgentScope](https://github.com/agentscope-ai/agentscope)** ![stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-9-8957e5?style=flat-square)](https://github.com/agentscope-ai/agentscope/pulls?q=is:pr+author:RerankerGuo+is:merged) — 生产级 Agent 框架：Event System / Permission / Workspace / Sandbox / Middleware 等核心抽象，已原生接入 ReMe 长记忆、Agentic Memory、分布式 RAG。
+- **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** ![stars](https://img.shields.io/github/stars/agentscope-ai/AgentTeams?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-16-8957e5?style=flat-square)](https://github.com/agentscope-ai/AgentTeams/pulls?q=is:pr+author:RerankerGuo+is:merged) — 多 Agent 协作平台（前身 HiClaw），Manager-Workers 架构，OpenClaw / QwenPaw / Hermes 多 runtime 共存。
 - **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** ![stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-8-8957e5?style=flat-square)](https://github.com/agentscope-ai/QwenPaw/pulls?q=is:pr+author:RerankerGuo+is:merged) — 个人 AI 助手 + Agent OS 架构（Workspace + Drivers + Sandbox），三层记忆 + Coding Mode。
-- **[ReMe](https://github.com/agentscope-ai/ReMe)** ![stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-7-8957e5?style=flat-square)](https://github.com/agentscope-ai/ReMe/pulls?q=is:pr+author:RerankerGuo+is:merged) — Memory as File 记忆工具包：Markdown + frontmatter + wikilink，人 / agent 皆可读可用。
-- **[open-code-review](https://github.com/alibaba/open-code-review)** ![stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-1-8957e5?style=flat-square)](https://github.com/alibaba/open-code-review/pulls?q=is:pr+author:RerankerGuo+is:merged) — 阿里出品的混合架构代码审查工具：确定性流水线 + LLM Agent 行级精准评论，内置多语言规则集（NPE / 线程安全 / XSS / SQL 注入），兼容 OpenAI & Anthropic（42k+ stars）。
+- **[ReMe](https://github.com/agentscope-ai/ReMe)** ![stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-11-8957e5?style=flat-square)](https://github.com/agentscope-ai/ReMe/pulls?q=is:pr+author:RerankerGuo+is:merged) — Memory as File 记忆工具包：Markdown + frontmatter + wikilink，人 / agent 皆可读可用。
+- **[open-code-review](https://github.com/alibaba/open-code-review)** ![stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-2-8957e5?style=flat-square)](https://github.com/alibaba/open-code-review/pulls?q=is:pr+author:RerankerGuo+is:merged) — 阿里出品的混合架构代码审查工具：确定性流水线 + LLM Agent 行级精准评论，内置多语言规则集（NPE / 线程安全 / XSS / SQL 注入），兼容 OpenAI & Anthropic（42k+ stars）。
 
 </div>
 </div>
@@ -86,10 +86,10 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-开源 RAG / Deep Research 生态 Contributor (54 merged PR)。
+开源 RAG / Deep Research 生态 Contributor (60 merged PR)。
 
-- **[ragflow](https://github.com/infiniflow/ragflow)** ![stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-4-8957e5?style=flat-square)](https://github.com/infiniflow/ragflow/pulls?q=is:pr+author:RerankerGuo+is:merged) — infiniflow 出品的开源 RAG 引擎（90k+ stars），文档解析 / retrieval / agent orchestration 一条龙。
-- **[local-deep-research](https://github.com/LearningCircuit/local-deep-research)** ![stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-50-8957e5?style=flat-square)](https://github.com/LearningCircuit/local-deep-research/pulls?q=is:pr+author:RerankerGuo+is:merged) — 本地优先的 Deep Research 工具（9k+ stars）：llama.cpp / Ollama / Google 等本地与云端 LLM 皆可驱动，10+ 搜索引擎（arXiv / PubMed / 私有文档），SimpleQA ~95%。
+- **[ragflow](https://github.com/infiniflow/ragflow)** ![stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-6-8957e5?style=flat-square)](https://github.com/infiniflow/ragflow/pulls?q=is:pr+author:RerankerGuo+is:merged) — infiniflow 出品的开源 RAG 引擎（90k+ stars），文档解析 / retrieval / agent orchestration 一条龙。
+- **[local-deep-research](https://github.com/LearningCircuit/local-deep-research)** ![stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-54-8957e5?style=flat-square)](https://github.com/LearningCircuit/local-deep-research/pulls?q=is:pr+author:RerankerGuo+is:merged) — 本地优先的 Deep Research 工具（9k+ stars）：llama.cpp / Ollama / Google 等本地与云端 LLM 皆可驱动，10+ 搜索引擎（arXiv / PubMed / 私有文档），SimpleQA ~95%。
 
 </div>
 </div>
@@ -105,9 +105,9 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-训练 / 后训练框架 Contributor (7 merged PR)。
+训练 / 后训练框架 Contributor (8 merged PR)。
 
-- **[ms-swift](https://github.com/modelscope/ms-swift)** ![stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-6-8957e5?style=flat-square)](https://github.com/modelscope/ms-swift/pulls?q=is:pr+author:RerankerGuo+is:merged) — ModelScope 出品的全流程训练框架（AAAI 2025），支持 600+ LLM / 300+ MLLM 的 CPT / SFT / DPO / GRPO。
+- **[ms-swift](https://github.com/modelscope/ms-swift)** ![stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-7-8957e5?style=flat-square)](https://github.com/modelscope/ms-swift/pulls?q=is:pr+author:RerankerGuo+is:merged) — ModelScope 出品的全流程训练框架（AAAI 2025），支持 600+ LLM / 300+ MLLM 的 CPT / SFT / DPO / GRPO。
 - **[trl](https://github.com/huggingface/trl)** ![stars](https://img.shields.io/github/stars/huggingface/trl?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-1-8957e5?style=flat-square)](https://github.com/huggingface/trl/pulls?q=is:pr+author:RerankerGuo+is:merged) — HuggingFace 官方的 Transformer 强化学习库（19k+ stars），SFT / DPO / GRPO / PPO 等 post-training 范式的事实标准。
 
 </div>
@@ -124,9 +124,11 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-本地 AI 短剧 / 漫剧生成生态 Contributor (6 merged PR)。
+AI 音视频生成生态 Contributor (13 merged PR)。
 
-- **[LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)** ![stars](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-6-8957e5?style=flat-square)](https://github.com/xuanyustudio/LocalMiniDrama/pulls?q=is:pr+author:RerankerGuo+is:merged) — 本地优先的 AI 短剧 / 漫剧生成工具：提示词 → 角色造型 → 多镜头视频合成一站式，Seedance 2.x 多图参考、场景四宫格等核心特性修复。
+- **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** ![stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-1-8957e5?style=flat-square)](https://github.com/harry0703/MoneyPrinterTurbo/pulls?q=is:pr+author:RerankerGuo+is:merged) — AI 高清短视频一键生成工具（135k+ stars）：大模型 + 自动化工作流，输入主题 / 关键词即可产出成片，批量任务状态容错修复。
+- **[VoiceStudio](https://github.com/debpalash/VoiceStudio)** ![stars](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-5-8957e5?style=flat-square)](https://github.com/debpalash/VoiceStudio/pulls?q=is:pr+author:RerankerGuo+is:merged) — 本地优先的开源 ElevenLabs 替代（88k+ stars）：语音克隆 / 音色设计 / 视频配音 / 转写 / 有声书，支持 646 种语言，SSML 字素拼写、说话人分离解析等鲁棒性修复。
+- **[LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)** ![stars](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-7-8957e5?style=flat-square)](https://github.com/xuanyustudio/LocalMiniDrama/pulls?q=is:pr+author:RerankerGuo+is:merged) — 本地优先的 AI 短剧 / 漫剧生成工具：提示词 → 角色造型 → 多镜头视频合成一站式，Seedance 2.x 多图参考、通义万象图生图适配、场景四宫格等核心特性修复。
 
 </div>
 </div>
