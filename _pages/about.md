@@ -119,7 +119,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
-<img src='../images/aigc.svg' alt="LocalMiniDrama logo" width="100%">
+<img src='../images/money-printer-turbo-webui.jpg' alt="MoneyPrinterTurbo WebUI" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
