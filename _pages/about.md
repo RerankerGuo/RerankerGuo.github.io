@@ -152,7 +152,7 @@ AI 音视频生成生态 Contributor (15 merged PR)。
 </div>
 </div>
 
-## <img src='../images/memo.svg' alt="memo" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> Personal Project
+## <img src='../images/memo.svg' alt="memo" style="height:0.95em;vertical-align:-3px;margin-right:0.15em;"> Personal & Campus Projects
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -164,6 +164,7 @@ AI 音视频生成生态 Contributor (15 merged PR)。
 <div class='paper-box-text' markdown="1">
 
 - **[DeepMemo](https://github.com/YeyezhizzZ/deepmemo)** ![stars](https://img.shields.io/github/stars/YeyezhizzZ/deepmemo?style=flat-square) · **Core Maintainer** — 本地优先的 Markdown 知识库创作与问答工作台，适合长期沉淀学习记录、工程经验和科研进度。
+- **[SEUOJ Agentend](https://github.com/SEUAIG/seuoj-qa)** ![stars](https://img.shields.io/github/stars/SEUAIG/seuoj-qa?style=flat-square) · **Top Contributor** — 东南大学在线评测系统的智能问答服务：FastAPI + Camel-AI 三阶段智能体，FAISS + BM25 混合检索，提供 RAG 问答 / 知识图谱 / 代码辅导 / PPT 备课；另维护前端算法知识图谱数据（覆盖第 2-11 章）。
 
 </div>
 </div>
