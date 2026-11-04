@@ -141,7 +141,7 @@ AI 音视频生成生态 Contributor (15 merged PR)。
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
-<img src='../images/seuoj-problems.png' alt="SEUOJ problem library" width="100%">
+<img src='../images/seuoj-knowledge-graph.png' alt="SEUOJ knowledge graph" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
