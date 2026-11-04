@@ -141,16 +141,15 @@ AI 音视频生成生态 Contributor (15 merged PR)。
 <div class='paper-box-image'>
 <div>
 <div class="badge">GitHub</div>
-<img src='../images/deepmemo-editor.png' alt="DeepMemo screenshot" width="100%">
+<img src='../images/seuoj-problems.png' alt="SEUOJ problem library" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-全栈工程与代码审查：开源代码审查工具 Contributor (2 merged PR)，校园 OJ 智能问答服务 Top Contributor，个人知识库产品 Core Maintainer。
+全栈工程与代码审查：开源代码审查工具 Contributor (2 merged PR)，校园 OJ 系统核心开发。
 
 - **[open-code-review](https://github.com/alibaba/open-code-review)** ![stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-2-8957e5?style=flat-square)](https://github.com/alibaba/open-code-review/pulls?q=is:pr+author:RerankerGuo+is:merged) — 阿里出品的混合架构代码审查工具：确定性流水线 + LLM Agent 行级精准评论，内置多语言规则集（NPE / 线程安全 / XSS / SQL 注入），兼容 OpenAI & Anthropic（42k+ stars）。
-- **[DeepMemo](https://github.com/YeyezhizzZ/deepmemo)** ![stars](https://img.shields.io/github/stars/YeyezhizzZ/deepmemo?style=flat-square) · **Core Maintainer** — 本地优先的 Markdown 知识库创作与问答工作台，适合长期沉淀学习记录、工程经验和科研进度。
-- **[SEUOJ Agentend](https://github.com/SEUAIG/seuoj-qa)** ![stars](https://img.shields.io/github/stars/SEUAIG/seuoj-qa?style=flat-square) · **Top Contributor** — 东南大学在线评测系统的智能问答服务：FastAPI + Camel-AI 三阶段智能体，FAISS + BM25 混合检索，提供 RAG 问答 / 知识图谱 / 代码辅导 / PPT 备课；另维护前端算法知识图谱数据（覆盖第 2-11 章）。
+- **[SEUOJ](https://github.com/SEUAIG/seuoj-qa)** ![online](https://img.shields.io/badge/online-seuoj.best-8957e5?style=flat-square) · **Top Contributor** — 东南大学在线评测系统（[在线访问](https://www.seuoj.best/)）：FastAPI + Camel-AI 三阶段智能体，FAISS + BM25 混合检索，提供 RAG 问答 / 知识图谱 / 代码辅导 / PPT 备课；另维护前端算法知识图谱数据（覆盖第 2-11 章）。
 
 </div>
 </div>
