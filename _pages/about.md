@@ -42,11 +42,12 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-编程 Agent / 多 Agent 协作 / 个人助理生态 Contributor (40 merged PR)。
+编程 Agent / 多 Agent 协作 / 个人助理生态 Contributor (67 merged PR)。
 
-- **[AgentScope](https://github.com/agentscope-ai/agentscope)** ![stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-9-8957e5?style=flat-square)](https://github.com/agentscope-ai/agentscope/pulls?q=is:pr+author:RerankerGuo+is:merged) — 生产级 Agent 框架：Event System / Permission / Workspace / Sandbox / Middleware 等核心抽象，已原生接入 ReMe 长记忆、Agentic Memory、分布式 RAG。
-- **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** ![stars](https://img.shields.io/github/stars/agentscope-ai/AgentTeams?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-22-8957e5?style=flat-square)](https://github.com/agentscope-ai/AgentTeams/pulls?q=is:pr+author:RerankerGuo+is:merged) — 多 Agent 协作平台（前身 HiClaw），Manager-Workers 架构，OpenClaw / QwenPaw / Hermes 多 runtime 共存。
-- **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** ![stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-8-8957e5?style=flat-square)](https://github.com/agentscope-ai/QwenPaw/pulls?q=is:pr+author:RerankerGuo+is:merged) — 个人 AI 助手 + Agent OS 架构（Workspace + Drivers + Sandbox），三层记忆 + Coding Mode。
+- **[AgentScope](https://github.com/agentscope-ai/agentscope)** ![stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-10-8957e5?style=flat-square)](https://github.com/agentscope-ai/agentscope/pulls?q=is:pr+author:RerankerGuo+is:merged) — 生产级 Agent 框架：Event System / Permission / Workspace / Sandbox / Middleware 等核心抽象，已原生接入 ReMe 长记忆、Agentic Memory、分布式 RAG。
+- **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** ![stars](https://img.shields.io/github/stars/agentscope-ai/AgentTeams?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-24-8957e5?style=flat-square)](https://github.com/agentscope-ai/AgentTeams/pulls?q=is:pr+author:RerankerGuo+is:merged) — 多 Agent 协作平台（前身 HiClaw），Manager-Workers 架构，OpenClaw / QwenPaw / Hermes 多 runtime 共存。
+- **[ReMe](https://github.com/agentscope-ai/ReMe)** ![stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-13-8957e5?style=flat-square)](https://github.com/agentscope-ai/ReMe/pulls?q=is:pr+author:RerankerGuo+is:merged) — Memory as File 记忆工具包（Remember Me, Refine Me）：Markdown + frontmatter + wikilink，人 / agent 皆可读可用；检索过滤、索引重建、时间戳保真等修复。
+- **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** ![stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-10-8957e5?style=flat-square)](https://github.com/agentscope-ai/QwenPaw/pulls?q=is:pr+author:RerankerGuo+is:merged) — 个人 AI 助手 + Agent OS 架构（Workspace + Drivers + Sandbox），三层记忆 + Coding Mode。
 - **[openclaw](https://github.com/openclaw/openclaw)** ![stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-1-8957e5?style=flat-square)](https://github.com/openclaw/openclaw/pulls?q=is:pr+author:RerankerGuo+is:merged) — 跑在自己设备上的开源 AI 助手：Discord / Slack / Telegram 等 20+ 聊天渠道即入口，模型与 agent harness 可插拔，状态 / 记忆 / 凭证全部留在本地（390k+ stars）。
 
 </div>
@@ -65,9 +66,9 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-面向 Agent 的记忆 / 上下文 / 知识库生态 Contributor (72 merged PR)。
+面向 Agent 的记忆 / 上下文 / 知识库生态 Contributor (74 merged PR)。
 
-- **[MemOS](https://github.com/MemTensor/MemOS)** ![stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-17-8957e5?style=flat-square)](https://github.com/MemTensor/MemOS/pulls?q=is:pr+author:RerankerGuo+is:merged) — Memory Operating System：统一 add / retrieve / edit / delete API；LoCoMo 92.34、LongMemEval 93.40 等 14 个商业记忆产品评测第一。
+- **[MemOS](https://github.com/MemTensor/MemOS)** ![stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-19-8957e5?style=flat-square)](https://github.com/MemTensor/MemOS/pulls?q=is:pr+author:RerankerGuo+is:merged) — Memory Operating System：统一 add / retrieve / edit / delete API；LoCoMo 92.34、LongMemEval 93.40 等 14 个商业记忆产品评测第一。
 - **[TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** ![stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-2-8957e5?style=flat-square)](https://github.com/TencentCloud/TencentDB-Agent-Memory/pulls?q=is:pr+author:RerankerGuo+is:merged) — 腾讯云开源：分层 L0→L3 长期记忆 + 符号化短期记忆，集成后 token 用量最多下降 61.38%。
 - **[gbrain](https://github.com/garrytan/gbrain)** ![stars](https://img.shields.io/github/stars/garrytan/gbrain?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-12-8957e5?style=flat-square)](https://github.com/garrytan/gbrain/pulls?q=is:pr+author:RerankerGuo+is:merged) — YC 总裁 Garry Tan 开源的 Agent 大脑层：综合引用 + 自走知识图谱 + 缺口分析，240 页 Opus 长文评测 **P@5 49.1% / R@5 97.9%**。
 - **[OpenViking](https://github.com/volcengine/OpenViking)** ![stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-3-8957e5?style=flat-square)](https://github.com/volcengine/OpenViking/pulls?q=is:pr+author:RerankerGuo+is:merged) — 字节火山引擎 Self-evolving Context Database，统一 Agent Memory / Knowledge RAG / Skills 三层抽象。
@@ -87,9 +88,9 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-训练 / 后训练框架 Contributor (8 merged PR)。
+训练 / 后训练框架 Contributor (9 merged PR)。
 
-- **[ms-swift](https://github.com/modelscope/ms-swift)** ![stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-7-8957e5?style=flat-square)](https://github.com/modelscope/ms-swift/pulls?q=is:pr+author:RerankerGuo+is:merged) — ModelScope 出品的全流程训练框架（AAAI 2025），支持 600+ LLM / 300+ MLLM 的 CPT / SFT / DPO / GRPO。
+- **[ms-swift](https://github.com/modelscope/ms-swift)** ![stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-8-8957e5?style=flat-square)](https://github.com/modelscope/ms-swift/pulls?q=is:pr+author:RerankerGuo+is:merged) — ModelScope 出品的全流程训练框架（AAAI 2025），支持 600+ LLM / 300+ MLLM 的 CPT / SFT / DPO / GRPO。
 - **[trl](https://github.com/huggingface/trl)** ![stars](https://img.shields.io/github/stars/huggingface/trl?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-1-8957e5?style=flat-square)](https://github.com/huggingface/trl/pulls?q=is:pr+author:RerankerGuo+is:merged) — HuggingFace 官方的 Transformer 强化学习库（19k+ stars），SFT / DPO / GRPO / PPO 等 post-training 范式的事实标准。
 
 </div>
@@ -106,10 +107,10 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-开源 RAG / Deep Research 生态 Contributor (62 merged PR)。
+开源 RAG / Deep Research 生态 Contributor (64 merged PR)。
 
 - **[ragflow](https://github.com/infiniflow/ragflow)** ![stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-6-8957e5?style=flat-square)](https://github.com/infiniflow/ragflow/pulls?q=is:pr+author:RerankerGuo+is:merged) — infiniflow 出品的开源 RAG 引擎（90k+ stars），文档解析 / retrieval / agent orchestration 一条龙。
-- **[local-deep-research](https://github.com/LearningCircuit/local-deep-research)** ![stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-55-8957e5?style=flat-square)](https://github.com/LearningCircuit/local-deep-research/pulls?q=is:pr+author:RerankerGuo+is:merged) — 本地优先的 Deep Research 工具（9k+ stars）：llama.cpp / Ollama / Google 等本地与云端 LLM 皆可驱动，10+ 搜索引擎（arXiv / PubMed / 私有文档），SimpleQA ~95%。
+- **[local-deep-research](https://github.com/LearningCircuit/local-deep-research)** ![stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-57-8957e5?style=flat-square)](https://github.com/LearningCircuit/local-deep-research/pulls?q=is:pr+author:RerankerGuo+is:merged) — 本地优先的 Deep Research 工具（9k+ stars）：llama.cpp / Ollama / Google 等本地与云端 LLM 皆可驱动，10+ 搜索引擎（arXiv / PubMed / 私有文档），SimpleQA ~95%。
 - **[WeKnora](https://github.com/Tencent/WeKnora)** ![stars](https://img.shields.io/github/stars/Tencent/WeKnora?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-1-8957e5?style=flat-square)](https://github.com/Tencent/WeKnora/pulls?q=is:pr+author:RerankerGuo+is:merged) — 腾讯开源的大模型知识平台（35k+ stars）：原始文档 → 可查询 RAG / 自主推理 Agent / 自维护 Wiki 一站式，SSRF 防护 IPv6 NAT64 编码安全测试。
 
 </div>
@@ -126,11 +127,11 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-AI 音视频生成生态 Contributor (15 merged PR)。
+AI 音视频生成生态 Contributor (17 merged PR)。
 
-- **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** ![stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-3-8957e5?style=flat-square)](https://github.com/harry0703/MoneyPrinterTurbo/pulls?q=is:pr+author:RerankerGuo+is:merged) — AI 高清短视频一键生成工具（135k+ stars）：大模型 + 自动化工作流，输入主题 / 关键词即可产出成片，批量任务状态容错修复。
+- **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** ![stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-4-8957e5?style=flat-square)](https://github.com/harry0703/MoneyPrinterTurbo/pulls?q=is:pr+author:RerankerGuo+is:merged) — AI 高清短视频一键生成工具（135k+ stars）：大模型 + 自动化工作流，输入主题 / 关键词即可产出成片，批量任务状态容错修复。
 - **[VoiceStudio](https://github.com/debpalash/VoiceStudio)** ![stars](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-5-8957e5?style=flat-square)](https://github.com/debpalash/VoiceStudio/pulls?q=is:pr+author:RerankerGuo+is:merged) — 本地优先的开源 ElevenLabs 替代（88k+ stars）：语音克隆 / 音色设计 / 视频配音 / 转写 / 有声书，支持 646 种语言，SSML 字素拼写、说话人分离解析等鲁棒性修复。
-- **[LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)** ![stars](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-7-8957e5?style=flat-square)](https://github.com/xuanyustudio/LocalMiniDrama/pulls?q=is:pr+author:RerankerGuo+is:merged) — 本地优先的 AI 短剧 / 漫剧生成工具：提示词 → 角色造型 → 多镜头视频合成一站式，Seedance 2.x 多图参考、通义万象图生图适配、场景四宫格等核心特性修复。
+- **[LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)** ![stars](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-8-8957e5?style=flat-square)](https://github.com/xuanyustudio/LocalMiniDrama/pulls?q=is:pr+author:RerankerGuo+is:merged) — 本地优先的 AI 短剧 / 漫剧生成工具：提示词 → 角色造型 → 多镜头视频合成一站式，Seedance 2.x 多图参考、通义万象图生图适配、场景四宫格等核心特性修复。
 
 </div>
 </div>
