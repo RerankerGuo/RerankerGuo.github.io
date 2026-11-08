@@ -55,8 +55,6 @@ redirect_from:
 
 ## 🧠 RSI
 
-### RSI · Memory
-
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
@@ -66,33 +64,15 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
-面向 Agent 的记忆 / 上下文 / 知识库生态 Contributor (74 merged PR)。
+Agent 记忆 / 上下文 / 后训练生态 Contributor (83 merged PR)。
 
 - **[MemOS](https://github.com/MemTensor/MemOS)** ![stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-19-8957e5?style=flat-square)](https://github.com/MemTensor/MemOS/pulls?q=is:pr+author:RerankerGuo+is:merged) — Memory Operating System：统一 add / retrieve / edit / delete API；LoCoMo 92.34、LongMemEval 93.40 等 14 个商业记忆产品评测第一。
 - **[TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** ![stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-2-8957e5?style=flat-square)](https://github.com/TencentCloud/TencentDB-Agent-Memory/pulls?q=is:pr+author:RerankerGuo+is:merged) — 腾讯云开源：分层 L0→L3 长期记忆 + 符号化短期记忆，集成后 token 用量最多下降 61.38%。
 - **[gbrain](https://github.com/garrytan/gbrain)** ![stars](https://img.shields.io/github/stars/garrytan/gbrain?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-12-8957e5?style=flat-square)](https://github.com/garrytan/gbrain/pulls?q=is:pr+author:RerankerGuo+is:merged) — YC 总裁 Garry Tan 开源的 Agent 大脑层：综合引用 + 自走知识图谱 + 缺口分析，240 页 Opus 长文评测 **P@5 49.1% / R@5 97.9%**。
 - **[OpenViking](https://github.com/volcengine/OpenViking)** ![stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-3-8957e5?style=flat-square)](https://github.com/volcengine/OpenViking/pulls?q=is:pr+author:RerankerGuo+is:merged) — 字节火山引擎 Self-evolving Context Database，统一 Agent Memory / Knowledge RAG / Skills 三层抽象。
-- **[Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)** ![stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-38-8957e5?style=flat-square)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/pulls?q=is:pr+author:RerankerGuo+is:merged) — 面向 Agent Memory 的持续更新知识库（400+ 论文 / 100+ 开源项目）。
-
-</div>
-</div>
-
-### RSI · Post-Training
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">GitHub</div>
-<img src='../images/ms-swift.jpg' alt="ms-swift logo" width="100%">
-</div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-训练 / 后训练框架 Contributor (9 merged PR)。
-
 - **[ms-swift](https://github.com/modelscope/ms-swift)** ![stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-8-8957e5?style=flat-square)](https://github.com/modelscope/ms-swift/pulls?q=is:pr+author:RerankerGuo+is:merged) — ModelScope 出品的全流程训练框架（AAAI 2025），支持 600+ LLM / 300+ MLLM 的 CPT / SFT / DPO / GRPO。
 - **[trl](https://github.com/huggingface/trl)** ![stars](https://img.shields.io/github/stars/huggingface/trl?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-1-8957e5?style=flat-square)](https://github.com/huggingface/trl/pulls?q=is:pr+author:RerankerGuo+is:merged) — HuggingFace 官方的 Transformer 强化学习库（19k+ stars），SFT / DPO / GRPO / PPO 等 post-training 范式的事实标准。
-
+- **[Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)** ![stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square) [![merged prs](https://img.shields.io/badge/merged_PRs-38-8957e5?style=flat-square)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/pulls?q=is:pr+author:RerankerGuo+is:merged) — 面向 Agent Memory 的持续更新知识库（400+ 论文 / 100+ 开源项目）。
 </div>
 </div>
 
